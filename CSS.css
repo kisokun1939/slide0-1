@@ -1,5 +1,8 @@
-center {
+.center {
   text-align:center;
+}
+.left {
+  text-align:left;
 }
 .wf-sawarabimincho {
   font-family: "Sawarabi Mincho";
